@@ -1,0 +1,15 @@
+C:\Users\victo\Documents\www\JornadaDotNet\DevTrackR.Console\bin\Debug\net6.0\DevTrackR.Console.exe
+C:\Users\victo\Documents\www\JornadaDotNet\DevTrackR.Console\bin\Debug\net6.0\DevTrackR.Console.deps.json
+C:\Users\victo\Documents\www\JornadaDotNet\DevTrackR.Console\bin\Debug\net6.0\DevTrackR.Console.runtimeconfig.json
+C:\Users\victo\Documents\www\JornadaDotNet\DevTrackR.Console\bin\Debug\net6.0\DevTrackR.Console.dll
+C:\Users\victo\Documents\www\JornadaDotNet\DevTrackR.Console\bin\Debug\net6.0\DevTrackR.Console.pdb
+C:\Users\victo\Documents\www\JornadaDotNet\DevTrackR.Console\obj\Debug\net6.0\DevTrackR.Console.csproj.AssemblyReference.cache
+C:\Users\victo\Documents\www\JornadaDotNet\DevTrackR.Console\obj\Debug\net6.0\DevTrackR.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\www\JornadaDotNet\DevTrackR.Console\obj\Debug\net6.0\DevTrackR.Console.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\www\JornadaDotNet\DevTrackR.Console\obj\Debug\net6.0\DevTrackR.Console.AssemblyInfo.cs
+C:\Users\victo\Documents\www\JornadaDotNet\DevTrackR.Console\obj\Debug\net6.0\DevTrackR.Console.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\www\JornadaDotNet\DevTrackR.Console\obj\Debug\net6.0\DevTrackR.Console.dll
+C:\Users\victo\Documents\www\JornadaDotNet\DevTrackR.Console\obj\Debug\net6.0\refint\DevTrackR.Console.dll
+C:\Users\victo\Documents\www\JornadaDotNet\DevTrackR.Console\obj\Debug\net6.0\DevTrackR.Console.pdb
+C:\Users\victo\Documents\www\JornadaDotNet\DevTrackR.Console\obj\Debug\net6.0\DevTrackR.Console.genruntimeconfig.cache
+C:\Users\victo\Documents\www\JornadaDotNet\DevTrackR.Console\obj\Debug\net6.0\ref\DevTrackR.Console.dll
