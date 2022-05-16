@@ -1,9 +1,14 @@
 using DevTrackR.API.Persistence;
-using Microsoft.EntityFrameworkCore; 
+using DevTrackR.API.Persistence.Repository;
+using DevTrackR.API.Persitence.Repository;
+using Microsoft.EntityFrameworkCore;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddScoped<IPackageRepository, PackageRepository>();
+
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
